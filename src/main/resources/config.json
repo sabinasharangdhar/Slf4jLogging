@@ -1,0 +1,9 @@
+{
+    "deployment-manager": {
+        "modules": [],
+        "components": [
+            "com.groupcdg.lcp.device.WebUIDevice",
+            "com.groupcdg.lcp.service.LocalServiceRegistry"
+        ]
+    }
+}

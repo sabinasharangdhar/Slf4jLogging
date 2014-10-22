@@ -1,0 +1,11 @@
+{
+    "description": "Lean Client Solution",
+    "homepage": "http://www.groupcdg.com",
+    "licenses": [""],
+    "author": "",
+    "developers": [""],
+    "keywords": ["lean client"],
+
+    "main": "com.groupcdg.lcp.test.TestLogger",
+    "auto-redeploy": true
+}
